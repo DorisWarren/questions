@@ -25,8 +25,8 @@ $(document).ready(function() {
       $("#survey").hide()
       }
       else {
-        $("#result").text("You should do Ruby/Rails!");
-        $("#survey").hide()
-      }
+      $("#result").text("You should do Ruby/Rails!");
+      $("#survey").hide()
+    }
   });
 });
