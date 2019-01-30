@@ -53,4 +53,4 @@ _If there is anything that needs my attention please, feel free to contact suppo
 
 *GPL License*
 
-Copyright (c) **_{2019 Doris Warren}_**
+Copyright (c) **_2019 Doris Warren_**
