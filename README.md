@@ -6,7 +6,7 @@
 
 ## Description
 
-This weeks project was created based on certain tracks Epicodus offers. The survey will suggest a track that best suits you based on your input. You can see the project live https://github.com/DorisWarren/questions.git
+_This weeks project was created based on certain tracks Epicodus offers. The survey will suggest a track that best suits you based on your input. You can see the project live_ https://github.com/DorisWarren/questions.git
 
 ## Setup/Installation Requirements
 
